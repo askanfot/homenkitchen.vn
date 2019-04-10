@@ -1,0 +1,28 @@
+enable    : true
+topTitle  : Lorem ipsum dolor
+title     : Lorem ipsum dolor
+subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item      :
+  - icon  : tf-ion-ios-copy-outline
+    title : Lorem ipsum dolor
+    list  :
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Lorem ipsum dolor
+    list  :
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+
+  - icon  : tf-ion-ios-book-outline
+    title : Lorem ipsum dolor
+    list  :
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor
+      - name : Lorem ipsum dolor

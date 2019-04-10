@@ -1,0 +1,42 @@
+enable  : true
+topTitle: Albums
+title   : Thư viện ảnh.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+filtermenu :
+  - name      : Photography
+    category  : photography
+
+  - name      : Tour
+    category  : tour
+
+  - name      : Teambuilding
+    category  : team
+
+  - name      : Background
+    category  : background
+
+item   :
+  - title : Lorem ipsum
+    image : images/portfolio/portfolio-1.jpg
+    category  : photography
+
+  - title : Lorem ipsum
+    image : images/portfolio/portfolio-2.jpg
+    category  : tour
+
+  - title : Lorem ipsum
+    image : images/portfolio/portfolio-3.jpg
+    category  : tour
+
+  - title : Card
+    image : images/portfolio/portfolio-4.jpg
+    category  : team
+
+  - title : Toons
+    image : images/portfolio/portfolio-5.jpg
+    category  : team
+
+  - title : Illustration
+    image : images/portfolio/portfolio-6.jpg
+    category  : backgound

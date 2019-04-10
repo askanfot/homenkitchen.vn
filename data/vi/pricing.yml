@@ -1,0 +1,44 @@
+enable  : true
+topTitle: THông TIN
+title   : Bảng giá.
+subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+item  :
+  - name        : THỨ 2 - THỨ 5
+    price       : 4,000,000 ₫ 
+    description : (Giá ngày Lễ Tết phụ thu riêng). 
+    featurelist :
+      - item: "Số người tiêu chuẩn : 16 người"
+      - item: "Số người tối đa : 25 người lớn"
+      - item: "Số đêm tối thiểu 1 đêm"
+      - item: "Phí dọn dẹp: 80,000 ₫ mỗi lần ở"
+      - item: "Nhận phòng	2:0 PM ,Trả phòng	12:00 PM"
+      - item: "Phí khách tăng thêm : 80,000 ₫ sau 2 khách"
+    btnText     : Đặt phòng
+    btnURL      : https://themefisher.com/
+
+  - name        : THỨ 6 - CN
+    price       : 6,000,000 ₫ 
+    description : (Giá ngày Lễ Tết phụ thu riêng) 
+    featurelist :
+      - item: "Số người tiêu chuẩn : 16 người"
+      - item: "Số người tối đa : 25 người lớn"
+      - item: "Số đêm tối thiểu 1 đêm"
+      - item: "Phí dọn dẹp: 80,000 ₫ mỗi lần ở"
+      - item: "Nhận phòng	2:0 PM ,Trả phòng	12:00 PM"
+      - item: "Phí khách tăng thêm : 80,000 ₫ sau 2 khách"
+    btnText     : Đặt phòng
+    btnURL      : https://themefisher.com/
+
+  - name        : CÁC NGÀY LỄ TẾT
+    price       : Liên hệ
+    description : (Giá ngày Lễ Tết phụ thu riêng) 
+    featurelist :
+      - item: "Số người tiêu chuẩn : 16 người"
+      - item: "Số người tối đa : 25 người lớn"
+      - item: "Số đêm tối thiểu 1 đêm"
+      - item: "Phí dọn dẹp: 80,000 ₫ mỗi lần ở"
+      - item: "Nhận phòng	2:0 PM ,Trả phòng	12:00 PM"
+      - item: "Phí khách tăng thêm : 80,000 ₫ sau 2 khách"
+    btnText     : Đặt phòng
+    btnURL      : https://themefisher.com/
